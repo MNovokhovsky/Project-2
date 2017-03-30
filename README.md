@@ -1,2 +1,1 @@
-# Project-2
-Professional web presence with fully styled CSS that provides a basic typographic treatment and responsive design that makes judicious use of media queries and relative units.
+# Project-1 This goal of this project is to create the foundation for a professional web presence. I will create three pages (a resume, personal bio and digital portfolio) using valid, well-formed semantic HTML that is compliant to today's standards.
