@@ -1,1 +1,0 @@
-# Project-1 This goal of this project is to create the foundation for a professional web presence. I will create three pages (a resume, personal bio and digital portfolio) using valid, well-formed semantic HTML that is compliant to today's standards.
